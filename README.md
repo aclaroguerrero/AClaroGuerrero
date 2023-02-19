@@ -6,7 +6,7 @@
 
 👨🏻 I'm a 24 years old foreing languages student but I'm deeply apasionated with programming and the tech world in general, I've spent a lot of time watching videos from a _YouTube_ channel called [Nate Gentile](https://www.youtube.com/channel/UC36xmz34q02JYaZYKrMwXng) among others videos of people programing which made my love for this world increase over the years, but I never took the time to learn programming until the beginning of 2023, why? Not sure myself honestly but here am I.
 
-✍🏻So far, since Feb 1st 2023 I've learning _HTML_, _CSS_ and I want to learn _JavaScript_ to start with frontend as per usual and from there move forwards to backend and other things. I'm not an expert by now but I'm making this README file to keep a record of my achievements until now, this of course makes me a newbie but everyone was a newbie once, right?.
+✍🏻So far, since Feb 1st 2023 I've been learning _HTML_, _CSS_ and I want to learn _JavaScript_ to start with frontend as per usual and from there move forwards to backend and other things. I'm not an expert by now but I'm making this README file to keep a record of my achievements until now, this of course makes me a newbie but everyone was a newbie once, right?.
 
 🐉Anyways, here's what I have learned so far **02/19/23**:
 
